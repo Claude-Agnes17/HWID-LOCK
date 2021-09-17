@@ -1,0 +1,9 @@
+C:\Users\김준성\source\repos\HWID lock\HWID lock\bin\Debug\HWID lock.exe.config
+C:\Users\김준성\source\repos\HWID lock\HWID lock\bin\Debug\HWID lock.exe
+C:\Users\김준성\source\repos\HWID lock\HWID lock\bin\Debug\HWID lock.pdb
+C:\Users\김준성\source\repos\HWID lock\HWID lock\obj\Debug\HWID lock.csproj.AssemblyReference.cache
+C:\Users\김준성\source\repos\HWID lock\HWID lock\obj\Debug\HWID_lock.Properties.Resources.resources
+C:\Users\김준성\source\repos\HWID lock\HWID lock\obj\Debug\HWID lock.csproj.GenerateResource.cache
+C:\Users\김준성\source\repos\HWID lock\HWID lock\obj\Debug\HWID lock.csproj.CoreCompileInputs.cache
+C:\Users\김준성\source\repos\HWID lock\HWID lock\obj\Debug\HWID lock.exe
+C:\Users\김준성\source\repos\HWID lock\HWID lock\obj\Debug\HWID lock.pdb
